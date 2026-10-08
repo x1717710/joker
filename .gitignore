@@ -1,0 +1,16 @@
+# 大文件 / 安装包（417.7MB，超 GitHub 100MB 上限）
+open-design-0.24.0-win-x64-setup.exe
+
+# 技能目录 / 备份 / 截图
+claudedesignskills/
+threejs-skills/
+.obsidian/
+_backup/
+_shots/
+
+# 内部部署文档
+P_Portfolio/部署/
+
+# 隐私：个人简历不公开
+建站资料/个人简历.docx
+建站资料/个人简历.pdf
